@@ -1,2 +1,2 @@
 # Android-class-270
-Android class
+Android tutorial for class 270
